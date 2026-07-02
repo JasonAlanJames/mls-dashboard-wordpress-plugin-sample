@@ -1,6 +1,6 @@
 # MLS Dashboard WordPress Plugin Sample
 
-Sanitized portfolio sample of a custom real-estate MLS/IDX dashboard built as a WordPress plugin.
+A custom WordPress MLS/IDX integration plugin demonstrating full-stack development, real estate data integration, advanced property search, responsive listing interfaces, and API-driven automation. This sanitized portfolio sample showcases experience building software for the real estate and mortgage ecosystem.
 
 ## What it demonstrates
 
