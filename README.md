@@ -23,3 +23,8 @@ This repository is a sanitized portfolio sample. Client names, MLS identifiers, 
 - `inquiries@example.com`
 - `(555) 555-0100`
 
+## Screenshots
+
+The image below is a sanitized portfolio overview of the MLS/IDX plugin interface. Client branding, MLS IDs, listing addresses, phone numbers, API keys, and private client details have been replaced with sample data.
+
+![Sanitized MLS IDX Plugin Screenshots](images/MLS-IDX-plugin-sample-screenshots.png)
